@@ -1,17 +1,14 @@
-h1{
-    color:blue;
-    text-align:center;
-background-color:grey;
+h1{color: blue;
+text-align: center;
 }
-h2{
-    color:green;
-    font-style: italic;
-    text-align:center;
+h2 {
+color: green;
+font-style: italic;
+text-align: center;
 }
-p{
-    font-family:sans-serif;
+p {
+font-family: sans-serif;
 }
-ul{
-    line-height:40px;
-    background-color: yellow;
+ul {
+line-height: 40px;
 }
